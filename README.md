@@ -1,3 +1,3 @@
 # 【GCP】Cloud RunでPython FastAPI・Streamlitをデプロイ
 
-Blog: 
+Blog: https://laid-back-scientist.com/cloud-run-python
